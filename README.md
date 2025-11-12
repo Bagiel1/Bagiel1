@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagiel1&layout=compact&theme=tokyonight)
+
 
 
 
