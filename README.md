@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bagiel&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bagiel1&layout=compact)
 
 
 
